@@ -9,13 +9,13 @@ He is a trained industrial engineer and a machine intelligence student with a gr
 
 #Education
 
-[African Institute for Mathematical Sciences Senegal] (https://aims-senegal.org/fr/)
+[African Institute for Mathematical Sciences Senegal](https://aims-senegal.org/fr/)
 
-[African Institute for Mathematical Sciences Cameroon] (https://aims-cameroon.org/)
+[African Institute for Mathematical Sciences Cameroon](https://aims-cameroon.org/)
 
-[National Advanced School of Engineering Yaounde] (www.polytechnique.cm)
+[National Advanced School of Engineering Yaounde](www.polytechnique.cm)
 
 #Connect with Fonteh
 
-[LinkedIn] (https://www.linkedin.com/in/fonteh-bonaventure/)
-[email] (mailto:kiehfonteh@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fonteh-bonaventure/)
+[email](mailto:kiehfonteh@gmail.com)
