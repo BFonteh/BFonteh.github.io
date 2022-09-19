@@ -6,7 +6,9 @@ He is a trained industrial engineer and a machine intelligence student with a gr
 [1. Sentimentatl Analysis using Neural Networks](https://www.github.com/BFonteh/Text-Classification-Using-FCNN)
 
 [2. Multiclass Calssification using Naive Bayes](https://www.github.com/BFonteh/Naive_Bayes)
+
 #Education
+
 [African Institute for Mathematical Sciences Senegal] (https://aims-senegal.org/fr/)
 
 [African Institute for Mathematical Sciences Cameroon] (https://aims-cameroon.org/)
